@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# HPCオープンソースソフトウェア普及部会
 
-You can use the [editor on GitHub](https://github.com/PCCLUSTER/HPC-OSS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# 部会概要／趣旨
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+PCクラスタおよび高性能並列システムの利用においては、ミドルウエアからライブラリまで多くのオープンソースのソフトウェアが利用され、我が国においてもポストペタCRESTのプロジェクトで開発されたソフトウェアなどオープンソースの関連ソフトウェアが開発されている。本提案部会では、そのようなオープンソースHPCソフトウェアの普及のための活動を行う。
 
-### Markdown
+この提案の背景として、科学技術振興機構(JST) 戦略的創造研究推進事業「ポストペタスケール高性能計算に資するシステムソフトウェア技術の創出」領域の研究会開発プロジェクト（ポストペタCREST）がある。このプロジェクトは、メニーコアをはじめとした超並列計算環境に必要となる基盤的ソフトウェア技術の創出を目指して、平成22年度から平成29年度（平成30年3月末で終了）に実施され、システムソフトウェアからプログラミング言語ソフトウェア、ライブラリ、アプリケーションに至る、多くのソフトウェアの研究開発が行われた。ポストペタスケールのシステム技術についてハードウェアとアプリケーションをつなぐ基盤的ソフトウェアからアプローチするものであったが、同時に研究成果が実際に利活用されることも目標としており、開発されたソフトウェアは、オープンソースソフトウェアとして公開済み、あるいは公開予定である。HPC分野に限らず、開発したソフトウェアが実際に使われるようになるためには単にソフトウェアを開発するだけでなく、チュートリアル・講習会等の普及活動やユーザーからのフィードバックを得る場が不可欠である。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+このような、主に我が国において開発が進められているオープンソースのHPCソフトウェア普及のための活動を部会として提案するものである。具体的には、大学のスパコンセンターによる共同利用・共同研究拠点(JHPCN)、HPCIコンソーシアムなどの協力を得て、普及活動を行う。
 
-```markdown
-Syntax highlighted code block
+# 活動内容
 
-# Header 1
-## Header 2
-### Header 3
+* オープンソースHPCソフトウェア普及活動（ポストペタCRESTにより開発されたソフトウェアを含む、講習会、ワークショップの開催等）
+* ユーザーからの意見・フィードバックの集約
+* 最新オープンソースHPCソフトウェアの動向の調査
 
-- Bulleted
-- List
+# 組織
 
-1. Numbered
-2. List
+* 部会長：佐藤三久　(理化学研究所・筑波大学)
+* 副部会長：　中島研吾（東京大学）、住元真司（富士通）
+* 部会員：オープンソースHPCソフトウェアとして普及活動を希望するソフトウェア開発者およびHPCソフトウェアに関心のある企業、スパコンセンター関係者および研究者。なお、当初はポストペタCRESTによるソフトウェアから始め、順次、提案のあるソフトウェアについて受付、普及活動を行う。
 
-**Bold** and _Italic_ and `Code` text
+# 参加資格
 
-[Link](url) and ![Image](src)
-```
+# 講習会等の参加・アナウンスについては正会員を優先する
+# HPC研究者・HPC環境提供者は正会員であるかどうかは問わない。規格について検討を行う部会や技術討論会の参加者については、会員であるかどうかは問わない。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PCCLUSTER/HPC-OSS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
