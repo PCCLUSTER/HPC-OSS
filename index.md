@@ -21,12 +21,13 @@ Web site: [http://omni-compiler.org/](http://omni-compiler.org/)
 github: [https://github.com/omni-compiler](https://github.com/omni-compiler)
 
 ---
-## PIP
+## Process-in-Process (PiP)
 概要:
+これまでノード内の並列実行モデルとしては、マルチプロセス（MPIで広く使われている）とマルチスレッド（OpenMPで使われている）の２つがあった。メニーコアの普及に伴い、これら従来の並列実行モデルではいくつかの問題点が顕在化しつつある。マルチプロセスにおけるプロセス間通信のオーバヘッドや、マルチスレッドにおける変数のアクセス競合を回避するためのオーバヘッド、などである。そこで、マルチプロセスとマルチスレッドの両者の利点を取り入れると同時に、これらの問題点を解消するための新しいノード内並列実行モデルが望まれる。このアイデア自体は新しいものではない。米SNLで開発されたSMARTMAP、仏CEAで開発が進められているMPC、理研で開発されたPVASなどがある。しかしながら、これらは新規OSやOSの改造が必要であったり、新たな言語処理系の開発が必要であったり、とポータビリティに欠け、京などの多数のユーザが使う大規模なスパコンでの運用が難しい。Process-in-Process (PiP)の新規性は、その実装が全てユーザレベルのライブラリであることであり、その結果、ポータビリティに優れている。実際、PiPライブラリは、x86_64だけでなく、Arm64、Sparc64（京コンピュータ）上での動作が確認されている。米ANLと共同研究によりPiPの利点を生かしたMPICHの研究開発もPiPと同時並行で進められている。
 
-Web site:
+Web site: (TBA)
 
-github:
+github: PiP repository will be able to access from [https://github.com/RIKEN-SysSoft/PiP.git](https://github.com/RIKEN-SysSoft/PiP.git) (not ready yet).
 
 ---
 ## McKernel
