@@ -1,9 +1,9 @@
 PCクラスタおよび高性能並列システムの利用においては、ミドルウエアからライブラリまで多くのオープンソースのソフトウェアが利用され、我が国においてもポストペタCRESTのプロジェクトで開発されたソフトウェアなどオープンソースの関連ソフトウェアが開発されています。本部会では、
-そのようなオープンソースHPCソフトウェアの普及のための活動を行います。。
+そのようなHPCオープンソースソフトウェアの普及のための活動を行います。。
 
 * [HPCオープンソースソフトウェア普及部会の概要]({{ site.baseurl }}/overview).
 
-# オープンソースHPCソフトウェア
+# HPCオープンソースソフトウェア
 
 ---
 ## Omni Compiler
@@ -36,4 +36,23 @@ github: PiP repository will be able to access from [https://github.com/RIKEN-Sys
 Web site:
 
 github:
+
 ----
+## ACP: Advanced Communication Primitives (ACP) Library
+概要: 
+エクサスケール計算環境での利用に耐えるスケーラブルな通信ライブラリです。
+以下の特徴を持ちます：
+- 基本通信モデルとしてRDMAモデルを提供
+- 初期状態でのメモリ消費を最小限に抑制する。
+- アプリケーションで頻繁に用いられる通信パターンや大域データ構造の操作をインタフェースとして定義
+- 煩雑な RDMAインタフェースによるプログラミングモデルを隠蔽する。
+- 各インタフェースは、使用する通信用メモリ領域を明示的に確保/解放する関数を提供
+- メモリ領域の再利用によるメモリ効率の高い通信の実現を支援する。
+- 通信パターンや大域データ構造毎に独立したインタフェースを用意。
+- 各インタフェースについて最小限のメモリ使用量とオーバヘッドでの実装を可能とする。
+
+Web site: (http://ace-project.kyushu-u.ac.jp/main/jp/index.html)[http://ace-project.kyushu-u.ac.jp/main/jp/index.html]
+github: (https://github.com/project-ace/ACP)[https://github.com/project-ace/ACP]
+
+---
+
