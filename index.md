@@ -27,7 +27,7 @@ github: [https://github.com/omni-compiler](https://github.com/omni-compiler)
 
 Web site: (TBA)
 
-github: PiP repository will be able to access from [https://github.com/RIKEN-SysSoft/PiP.git](https://github.com/RIKEN-SysSoft/PiP.git) (not ready yet).
+github: PiP repository can be found at [https://github.com/RIKEN-SysSoft/PiP.git](https://github.com/RIKEN-SysSoft/PiP.git).
 
 ---
 ## McKernel
