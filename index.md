@@ -18,8 +18,8 @@ PCクラスタおよび高性能並列システムの利用においては、ミ
 ---
 ## Omni Compiler
 概要: 
-CおよびFortran 2008 を対象としたソース変換(source-to-source tranformation)のインフラストラクチャです。ソースコードをXcodeMLと呼ぶXML形式の中間表現に変換するフロントエンド、XcodeMLレベルでの変換のためのライブラリ、XcodeMLをソースに変換するデコンンパイラから、構成されています。
-これを用いて、以下のコンパイラが開発されています。
+CおよびFortran 2008を対象としたソース変換(source-to-source tranformation)のインフラストラクチャです。
+内部でXcodeML-Toolsを利用しています。下記の言語に対応しています。
 
 * XcalableMP
 * OpenMP (3.0)
@@ -30,6 +30,13 @@ Web site: [http://omni-compiler.org/](http://omni-compiler.org/)
 
 github: [https://github.com/omni-compiler](https://github.com/omni-compiler)
 
+---
+## XcodeML-Tools
+概要：ソースコードをXcodeMLと呼ぶXML形式の中間表現に変換するフロントエンドと、XcodeMLをソースに変換するデコンンパイラで構成されています。
+
+Web site: [http://omni-compiler.org/xcodeml.html](http://omni-compiler.org/xcodeml.html)
+
+github: [https://github.com/omni-compiler/xcodeml-tools](https://github.com/omni-compiler/xcodeml-tools)
 ---
 ## Process-in-Process (PiP)
 概要:
