@@ -14,6 +14,9 @@ PCクラスタおよび高性能並列システムの利用においては、ミ
 * 講習会等の参加・アナウンスについては正会員を優先する
 * HPC研究者・HPC環境提供者は正会員であるかどうかは問わない。規格について検討を行う部会や技術討論会の参加者については、会員であるかどうかは問わない。
 
+# 開催予定のイベント
+- 2025年3月11日 [PCCC HPC-OSS普及部会 ワークショップ「アプリ開発者のためのアクセラレータプログラミング最新情報」（東大、柏キャンパス）](https://pccluster.github.io/HPC-OSS/events/20260311_kashiwa)
+
 # 過去に実施したイベント
 - 2025年1月 [PCCC HPC OSS ワークショップ in 九州大学](https://www.pccluster.org/ja/event/2025/01/250127-hpc-oss-ws.html){:target="_blank"}
 - 2024年2月 [PCCC AI/HPC OSS活用ワークショップ](https://www.pccluster.org/ja/event/2024/01/240205-ws-AI-HPC-OSS.html){:target="_blank"}
