@@ -25,6 +25,9 @@ PCクラスタおよび高性能並列システムの利用においては、ミ
 - 2022年5月 [HPCオープンソースソフトウェア普及部会ワークショップ「New FPGA era for HPC cluster」](https://www.pccluster.org/ja/event/2022/04/220525-hpcoss-ws.html){:target="_blank"}
 - 2022年4月 [PCCC HPCオープンソースソフトウェア普及部会ワークショップ「高性能クラスタ・プログラミング最前線」](https://www.pccluster.org/ja/event/2022/03/220415-hpcoss-ws.html){:target="_blank"}
 - 2022年1月 [PCクラスタコンソーシアム HPCオープンソースソフトウェア普及部会ワークショップ「多様化するアクセラレータ」](https://www.pccluster.org/ja/event/2022/01/220120-hpcoss-ws.html){:target="_blank"}
+- 2021年9月 [HPCオープンソースソフトウェア普及部会ワークショップ「高性能数値計算ライブラリLexADV」](https://www.pccluster.org/ja/event/2020/07/200904-event.html){:target="_blank"}
+- 2021年8月 [Arm HPCプラットフォーム・ワークショップ](https://www.pccluster.org/ja/event/2021/08/210826-event-armWS.html){:target="_blank"}
+- 2020年9月 [HPCオープンソースソフトウェア普及部会ワークショップ「HPCクラスタシステムにおける電力マネージメント最前線」](https://www.pccluster.org/ja/event/2020/07/200904-event.html){:target="_blank"}
 
 ----
 
