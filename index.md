@@ -29,6 +29,8 @@ PCクラスタおよび高性能並列システムの利用においては、ミ
 - 2021年8月 [Arm HPCプラットフォーム・ワークショップ](https://www.pccluster.org/ja/event/2021/08/210826-event-armWS.html){:target="_blank"}
 - 2020年9月 [HPCオープンソースソフトウェア普及部会ワークショップ「HPCクラスタシステムにおける電力マネージメント最前線」](https://www.pccluster.org/ja/event/2020/07/200904-event.html){:target="_blank"}
 
+* [過去の情報はこちらから]({{ site.baseurl }}/legacy)
+
 ----
 
-* [過去の情報はこちらから]({{ site.baseurl }}/legacy)
+- [PCクラスタコンソーシアム](https://www.pccluster.org/)
