@@ -33,4 +33,4 @@ PCクラスタおよび高性能並列システムの利用においては、ミ
 
 ----
 
-- [PCクラスタコンソーシアム](https://www.pccluster.org/)
+<a href="https://www.pccluster.org/" alt="PCクラスタコンソーシアム" target="_blank"><img src="pccc_logo_color.png" width="300px"><br>（PCクラスタコンソーシアムのWebページへ）</a>
